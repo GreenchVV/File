@@ -1,0 +1,23 @@
+id;name;type;expiration_date;contract;vendor;legal_entity;amount;comment;status;days_remaining
+1;starlinkmedia.ru;domain;22.04.2025;3384952/NIC-D;nic.ru;SL;;;active;
+2;starlinkrussia.ru;domain;26.06.2025;3384952/NIC-D;nic.ru;SL;;;active;
+3;starlinkrussia.ru;certificate;03.11.2025;3384952/NIC-D;nic.ru;SL;;GlobalSign SSL OV Wildcard;active;
+4;starlinkgroup.ru;domain;21.07.2025;3384952/NIC-D;nic.ru;SL;;;normal;
+5;C15624;hosting;09.10.2025;3384952/NIC-D;nic.ru;SL;;;active;150
+6;VM2312051465;vps;09.03.2025;3384952/NIC-D;nic.ru;SL;;;active;90
+7;U2954202;hosting;19.06.2025;3472263/NIC-D;nic.ru;SL;;;active;30
+8;MEDIA-VALUE.RU;domain;17.02.2026;2789756/NIC-D;nic.ru;Value;;;active;10
+9;STARVISUAL.PRO;domain;26.10.2025;2789756/NIC-D;nic.ru;Value;;;expired;
+10;starvisual.ru;domain;26.10.2025;2789756/NIC-D;nic.ru;Value;;;active;
+11;FUTURELABRUSSIA.RU;domain;13.12.2025;3722637/NIC-D;nic.ru;Future Lab;;;active;
+12;FUTURELABRUSSIA.RU;certificate;15.07.2025;3722637/NIC-D;nic.ru;Future Lab;;GlobalSign SSL DV;active;
+13;digital-inspiration.ru;domain;13.05.2025;3722637/NIC-D;nic.ru;Future Lab;;;active;
+14;AV241213095749;antivirus;10.03.2025;3722637/NIC-D;nic.ru;Future Lab;;bonus with purchase and discount;active;
+15;MILESTONERUSSIA.RU;domain;17.07.2025;3747448/NIC-D;nic.ru;Milestone;;;active;
+16;MILESTONERUSSIA.RU;certificate;16.03.2026;3747448/NIC-D;nic.ru;Milestone;;GlobalSign DomainSSL Wildcard;active;
+17;MIL4763535;hosting;29.08.2025;3747448/NIC-D;nic.ru;Milestone;;;active;
+18;starlabrussia.ru;domain;29.08.2025;5329437/NIC-D;nic.ru;Starlab;;;active;
+19;H416737013;hosting;23.10.2025;5329437/NIC-D;nic.ru;Starlab;;;active;
+20;Starlabrussia.ru;website;21.11.2025;;Tilda;Starlab;;;active;
+21;Shared-1000;hosting;27.09.2025;;gohost.kz;;9000.00₸;payment by Marat Kunikeev's Kazakhstan card;active;
+22;starvisual.io;domain;25.09.2025;;gohost.kz;;45800.00₸;payment by Marat Kunikeev's Kazakhstan card;active; 
